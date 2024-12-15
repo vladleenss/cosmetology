@@ -13,12 +13,12 @@ h1 {
 .main {
   display:flex;
 }
+h2 {
+    text-align:center;
+}
 
 .menu {
   margin: 0 30px 0 0;
-}
-h2 {
-    text-align:center;
 }
 html {
 background-image: url(fonn.png);
