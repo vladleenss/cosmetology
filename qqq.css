@@ -13,10 +13,6 @@ h1 {
 .main {
   display:flex;
 }
-h2 {
-    text-align:center;
-}
-
 .menu {
   margin: 0 30px 0 0;
 }
@@ -47,4 +43,8 @@ background-size: cover;
         font-weight: bold;
         border-left: 0px solid #33ADFF;
         display: block;}
+h2 {
+    text-align:center;
+}
+
 
