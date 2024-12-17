@@ -48,4 +48,8 @@ background-size: cover;
 .bold {
   font-weight: bold;
 }
+body {
+  font-family:Georgia, serif;
+  font-size:16px;
+}
 
