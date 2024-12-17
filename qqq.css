@@ -45,5 +45,7 @@ background-size: cover;
         font-weight: bold;
         border-left: 0px solid #33ADFF;
         display: block;}
-
+.bold {
+  font-weight: bold;
+}
 
