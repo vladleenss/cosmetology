@@ -71,3 +71,8 @@ margin 30px;
 .face6{
 text-align:center;
 }
+.face1{
+  position:relative;
+  left: 150px;
+  top: 10px;
+}
